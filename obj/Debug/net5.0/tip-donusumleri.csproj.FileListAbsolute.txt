@@ -1,0 +1,15 @@
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.AssemblyReference.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/Users/cihancalli/Desktop/yazilim-egitimi/Patika/C#/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache
